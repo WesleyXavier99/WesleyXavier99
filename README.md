@@ -1,17 +1,29 @@
-### Oi, sou Wesley Xavier. Seja Bem vindo!
+<h1>Olá, sou Wesley Xavier. Seja Bem vindo!</h1>
 
-(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-<!--
-**WesleyXavier99/WesleyXavier99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>-Sou estudante de Analise e Desenvolvimento de Sistemas.</h3>
 
-Here are some ideas to get you started:
+<p>-Atualmente estagiando na instituição de ensino FAETERJ-Rio, sou um apaixonado pela área de dados que pretende se tornar um <b>machine learning engineer<b>.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+-Me encontro fazendo estudos na area de machine learning e desenvolvimento mobile para a criação de aplicativos que utilizam inteligência artificial.
+
+-Tenho experiência profissional na area de Engenharia de dados, Business Inteligence e Engenharia de Software.
+</p>
+
+
+
+<h3>Atualmente mais focado em:</h3>
+<div style="display: inline">
+      <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /> 
+      <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
+      <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+      <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+        <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+      <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+
+
