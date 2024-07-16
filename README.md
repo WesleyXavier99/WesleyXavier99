@@ -2,10 +2,10 @@
 
 <h3>-Sou estudante de Analise e Desenvolvimento de Sistemas.</h3>
 
-<p>-Atualmente estagiando na instituição de ensino FAETERJ-Rio, sou um apaixonado pela área de dados que pretende se tornar um <b>machine learning engineer<b>.
+<p>-Atualmente trabalho como desenvolvedor fullstack jr na empresa Transônibus, sou um apaixonado pela área de dados que pretende se tornar um <b>machine learning engineer<b>.
 
 
--Me encontro fazendo estudos na area de machine learning e desenvolvimento mobile para a criação de aplicativos que utilizam inteligência artificial.
+-Me encontro fazendo estudos em big data para aprimorar minhas habilidades com processamento, tratamento e mensageria de dados e desenvolvimento web. 
 
 -Tenho experiência profissional na area de Engenharia de dados, Business Inteligence e Engenharia de Software.
 </p>
