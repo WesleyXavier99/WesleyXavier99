@@ -1,29 +1,48 @@
-<h1>Olá, sou Wesley Xavier. Seja Bem vindo!</h1>
+<h1>Olá, eu sou Wesley Xavier 👋</h1>
 
-<h3>-Sou estudante de Analise e Desenvolvimento de Sistemas.</h3>
+<h3>Desenvolvedor Fullstack | Node.js | React | Sistemas de Transporte</h3>
 
-<p>-Atualmente trabalho como desenvolvedor fullstack jr na empresa Transônibus, sou um apaixonado pela área de dados que pretende se tornar um <b>machine learning engineer<b>.
+<p>
+Atuo como desenvolvedor fullstack com foco em construção e evolução de sistemas web escaláveis, especialmente no setor de transporte urbano.
 
+Atualmente trabalho com desenvolvimento de soluções para múltiplas empresas de transporte, participando da criação e manutenção de sistemas como gestão de horários, operações e monitoramento.
 
--Me encontro fazendo estudos em big data para aprimorar minhas habilidades com processamento, tratamento e mensageria de dados e desenvolvimento web. 
+Tenho forte atuação no backend com Node.js e TypeScript, além de experiência no desenvolvimento de interfaces modernas com React/Next.js.
 
--Tenho experiência profissional na area de Engenharia de dados, Business Inteligence e Engenharia de Software.
+Também venho aprofundando meus estudos em Inteligência Artificial aplicada, com foco na construção de aplicações utilizando LLMs, RAG e sistemas inteligentes integrados ao desenvolvimento web.
 </p>
 
+---
 
+<h3>🚀 Tecnologias e Ferramentas</h3>
 
-<h3>Atualmente mais focado em:</h3>
-<div style="display: inline">
-      <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" />
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /> 
-      <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
-      <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-      <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-      <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-        <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-      <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-      <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-      <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+<p align="left">
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
+</p>
 
+---
 
+<h3>📚 Atualmente estudando</h3>
+
+<p>
+- Aplicações com Inteligência Artificial (LLMs, RAG, APIs como OpenAI/Gemini) <br>
+- Arquitetura de sistemas escaláveis <br>
+- Engenharia de software aplicada a produtos reais <br>
+</p>
+
+---
+
+<h3>💡 Interesses</h3>
+
+<p>
+- Desenvolvimento de sistemas inteligentes com IA <br>
+- Soluções para mobilidade urbana e transporte <br>
+- Evolução para posições de liderança técnica <br>
+</p>
